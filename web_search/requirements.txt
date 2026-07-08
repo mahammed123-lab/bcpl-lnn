@@ -1,0 +1,9 @@
+aiohttp>=3.9.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+tavily-python>=0.3.0
+pytest>=8.0.0
+# Optional — only needed if you want `.env` to load automatically via
+# `from dotenv import load_dotenv; load_dotenv()`. Not required if you
+# export environment variables another way (systemd, Docker, shell).
+python-dotenv>=1.0.0
