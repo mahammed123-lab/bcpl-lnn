@@ -181,11 +181,11 @@ pytest -q
    part — history rewriting is cleanup, not the fix.
 
 5. **Optional but recommended:**
-   - Add a repo description + topics (`python`, `llm`, `search`, `jarvis`).
+   - Add a repo description + topics (`python`, `llm`, `search`, `web-search`).
    - Enable GitHub's secret scanning (Settings → Code security) so any
      future key you paste in by mistake gets flagged automatically.
    - If this will be imported into your main project repo as a
      submodule/dependency instead of standalone, use:
      ```bash
-     git submodule add https://github.com/<your-username>/web-search.git jarvis_code/search_gate
+     git submodule add https://github.com/<your-username>/web-search.git your_project/search_gate
      ```
